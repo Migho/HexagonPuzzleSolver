@@ -1,6 +1,8 @@
 # HexagonPuzzleSolver
 
-I made this project after I lost my mind with Hexagon puzzle found at student room Gurula. So I made a program which will solve it! I wanted to learn a new programming language, so I chose Python.
+![Puzzle.jpg](https://github.com/Migho/HexagonPuzzleSolver/blob/master/puzzle.jpg "Haloo?")
+
+I lost my mind with Hexagon puzzle found at student room Gurula, so I made a program which will solve it! I wanted to learn a new programming language, so I chose Python.
 
 To run, type this when in /src:
 ```
