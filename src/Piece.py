@@ -10,6 +10,7 @@ class Piece:
     def printPiece(self):
         for line in self.pieceLayout: print line
 
+    # I made this function about 10 days ago and even I can't figure out how it works anymore.
     def rotate(self):
         longestLine = 0
         for line in self.pieceLayout:
